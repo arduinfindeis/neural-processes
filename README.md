@@ -6,4 +6,4 @@ This repository contains a TensorFlow 2 implementation of neural processes. The 
 ## Contents
 - **Model training:** see `*.py` for model setup and training scripts for the different tasks.
 - **Paper figures:** see `*.ipynb` notebook files for the code to reproduce similar figures to the paper.
-- **Model weights:** for weights of trained model see `weights` folder.
+- **Model weights:** for weights of trained models see `weights` folder.
